@@ -1,1 +1,1 @@
-# A repo for my presantations
+# A repo for my presentations
